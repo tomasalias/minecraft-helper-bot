@@ -7,9 +7,9 @@ import { ViewerOptions } from "prismarine-viewer";
 config();
 
 const BOT_OPTIONS: BotOptions = {
-	host: "127.0.0.1",
+	host: "srv01-eu-central-de-62519.dandix.de",
 	username: "Dummy",
-	port: 54789,
+	port: 3078,
 	version: "1.19",
 };
 
